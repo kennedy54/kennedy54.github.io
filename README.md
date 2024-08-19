@@ -7,3 +7,12 @@ Some of my other projects have included:
 - Using <ins>SQLite3</ins> to discover links within one of Acutec's databases they currently use today when managing faulty parts, and parts to use to build their aerospace vehicles.
 
 I will continue to update my repository with any projects I have previously completed, or any I am currently working on.
+
+**Links to my Repositories:**
+[Final Project from CMPSCI-301-Data-Analytics-Allegheny-College-Spring-2023](https://github.com/kennedy54/CMPSCI-301-Data-Analytics-Allegheny-College-Spring-2023)
+
+[Final Project from CMPSCI-305-Database_Systems-Allegheny-College-2023](https://github.com/kennedy54/CMPSCI-305-Database-Systems-Allegheny-College-2023)
+
+[Artifact Repo for Dashboard from Senior Project](https://github.com/kennedy54/Ryan-Kennedy-Artifact-Senior-Project)
+
+[Senior Thesis Repo from Senior Project](https://github.com/kennedy54/Ryan-Kennedy-Thesis-Senior-Project)
