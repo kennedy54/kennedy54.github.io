@@ -9,6 +9,8 @@ Some of my other projects have included:
 I will continue to update my repository with any projects I have previously completed, or any I am currently working on.
 
 **Links to my Repositories:**
+[Crawford County Food Insecurity Dashboard](https://github.com/kennedy54/Crawford-County-Food-Insecurity-Dashboard)
+
 [Final Project from CMPSCI-301-Data-Analytics-Allegheny-College-Spring-2023](https://github.com/kennedy54/CMPSCI-301-Data-Analytics-Allegheny-College-Spring-2023)
 
 [Final Project from CMPSCI-305-Database_Systems-Allegheny-College-2023](https://github.com/kennedy54/CMPSCI-305-Database-Systems-Allegheny-College-2023)
