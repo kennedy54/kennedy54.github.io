@@ -1,6 +1,6 @@
-#Welcome to my Personal Github page!
+# Welcome to my Personal Github page!
 
-####All public repositories are linked at the bottom of the page!
+#### All public repositories are linked at the bottom of the page!
 
 My name is **Ryan Kennedy** and I am a past student at Allegheny College who studied <ins>Integrative Informatics</ins> with an emphasis on <ins>Global Health Studies</ins>. <ins>Global Health Studies</ins> is also my minor. I have studied various aspects of global health-related data but primarily focused on the food industry and food insecurity. I have also focused my studies on general <ins>data analytics</ins> and <ins>database systems</ins> as well.
 
@@ -16,13 +16,13 @@ I utilized <ins>Canva</ins> to design banners and other graphics to enhance the 
 To promote the website among food-insecure individuals, I developed a marketing strategy that included designing flyers with QR codes, created with Canva, to direct users to the website. After launching the marketing campaign, I leveraged <ins>Google Analytics</ins> to perform <ins>Web Data Analyses</ins>, gaining insights into user interactions with the site. I also generated detailed <ins>Reports</ins> to better visualize and understand these interactions. Currently, I continue to update and manage the website, ensuring it remains a valuable resource for the community.
 **Here is a link to the CCFA's website:** [Crawford County Food Alliance](https://sites.google.com/allegheny.edu/crawfordcountyfoodalliance)
 
-####Some of my other projects have included:
+#### Some of my other projects have included:
 - Using <ins>R</ins> to create different plots and run regressions, to overall compare different vegetable oils in high, medium, and low-income countries and how those oils could be related to obesity rates.
 - Using <ins>SQL</ins> to discover links within one of Acutec's databases they currently use today when managing faulty parts, and parts to use to build their aerospace vehicles.
 
 I will continue to update my repository with any projects I have previously completed, or any I am currently working on.
 
-###**Links to my Repositories:**
+### **Links to my Repositories:**
 [Crawford County Food Insecurity Dashboard Repo](https://github.com/kennedy54/Crawford-County-Food-Insecurity-Dashboard)
 
 [Final Project from CMPSCI-301-Data-Analytics-Allegheny-College-Spring-2023](https://github.com/kennedy54/CMPSCI-301-Data-Analytics-Allegheny-College-Spring-2023)
